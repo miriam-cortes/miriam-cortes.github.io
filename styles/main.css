@@ -61,6 +61,7 @@ nav .header-bottom-wrap{
   border-radius: 50%;
   margin-left: 15%;
   margin-right: 15%;
+  border: black 4px solid;
 }
 .intro-bar h2 {
   padding-top: 5%;
