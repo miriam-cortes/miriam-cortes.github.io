@@ -121,6 +121,8 @@ article .article-text {
       -ms-transition: all 1s ease;
           transition: all 1s ease;
       -webkit-filter: brightness(50%);
+      width: 300px;
+      height: 300px;
 }
 .blur img:hover {
   -webkit-filter: blur(5px);
