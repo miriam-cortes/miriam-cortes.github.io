@@ -11,7 +11,7 @@ header {
   margin-top: 10px;
   /*margin-left: .5%;*/
   border-top: white 5px solid;
-  z-index: 1;
+  z-index: 5;
 }
 header {
   border-top: black 5px solid;
@@ -96,16 +96,19 @@ article h4 {
   font-size: 1.25rem;
 }
 article .article-text {
-  /*text-align: center;*/
   font-size: 1rem;
   position: absolute;
-  left: 15%;
+  left: 5%;
   top: 25%;
   padding: 2%;
   margin: 5%;
   font-weight: bold;
 }
 
+.article-text {
+  color: white;
+  text-decoration: none;
+}
 
 /**************BLUR EFFECT ON HOVER*******************/
 .blur img {
@@ -116,9 +119,11 @@ article .article-text {
           transition: all 1s ease;
       -webkit-filter: brightness(50%);
 }
-
 .blur img:hover {
   -webkit-filter: blur(5px);
 }
 
 /************** Footer *******************/
+footer p {
+  font-size: 1.2rem;
+}
