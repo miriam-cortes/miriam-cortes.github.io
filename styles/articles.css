@@ -48,12 +48,12 @@ nav .header-bottom-wrap{
 /**************** ARTICLE SECTION*********************/
 .article-body {
   border: white 5px solid;
-  border-radius: 5%;
+  border-radius: 2%;
   background-color: #ffff80;
   text-align: left;
   width: 75%;
   float: none;
-  margin-top: 150px;
+  margin-top: 155px;
   /*padding: 2%;*/
   margin-left: 10%;
   margin-right: 10%;
@@ -63,7 +63,7 @@ nav .header-bottom-wrap{
 article {
   line-height: 2rem;
   border: black 5px solid;
-  border-radius: 5%;
+  border-radius: 2%;
   margin: 2%;
   display: inline-block;
   font-size: 1.5rem;
