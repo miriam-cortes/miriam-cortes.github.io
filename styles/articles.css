@@ -18,7 +18,7 @@ header {
 nav h2 {
   font-size: 3rem;
   float: left;
-  padding: 2% 2% 2% 1%;
+  padding: 2% 0% 2% 1%;
   margin: 1%;
 }
 .back_home {
@@ -28,9 +28,6 @@ nav h2 {
   margin: 3% 0 2% 2%;
 }
 /*LINKS @ TOP*/
-nav ul {
-  font-size: 1rem;
-}
 ul li {
   display: inline;
   text-align: center;
@@ -38,7 +35,7 @@ ul li {
   /*padding: 1%;*/
   margin: 1%;
   margin-top: 3%;
-  /*width: 10%;*/
+  width: 3%;
 }
 li a {
   color: black;
@@ -52,12 +49,11 @@ nav .header-bottom-wrap{
 }
 .navigation-buttons img{
   width: 50px;
-  margin-right: 0;
+  padding-right: 10px;
 }
 /**************** ARTICLE SECTION*********************/
 .article-body {
-  border: white 5px solid;
-  border-radius: 2%;
+  border: black 5px solid;
   background-color: #ffff80;
   text-align: left;
   width: 75%;
@@ -71,9 +67,8 @@ nav .header-bottom-wrap{
 
 article {
   line-height: 2rem;
-  border: black 5px solid;
-  border-radius: 2%;
-  margin: 2%;
+  /*border: black 5px solid;
+  margin: 2%;*/
   display: inline-block;
   font-size: 1.5rem;
   color: black;
@@ -93,6 +88,9 @@ a {
   /*text-decoration: none;*/
 }
 
+p img {
+    border: white 2px solid;
+}
 blockquote {
   /*font-style: italic;*/
   margin: 2%;
