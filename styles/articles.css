@@ -22,7 +22,7 @@ nav h2 {
   margin: 1%;
 }
 .back_home {
-  max-width: 5%;
+  width: 3%;
   float: left;
   display: block;
   margin: 3% 0 2% 2%;
@@ -47,8 +47,10 @@ li a {
 nav .header-bottom-wrap{
   border-bottom: white 5px solid;
 }
+
+/* outside sites icons */
 .navigation-buttons img{
-  width: 50px;
+  width: 30px;
   padding-right: 10px;
 }
 /**************** ARTICLE SECTION*********************/
@@ -77,7 +79,7 @@ article {
 }
 
 .article-text img{
-  width: 60%;
+  width: 80%;
   height: auto;
   margin-left: auto;
   margin-right: auto;

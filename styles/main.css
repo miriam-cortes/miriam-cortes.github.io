@@ -32,7 +32,7 @@ ul li {
   display: inline;
   text-align: center;
   float: right;
-  padding-top: 14px;
+  padding-top: 17px;
   margin: 1% 1% 1% 1%;
   width: 3%;
 
@@ -48,7 +48,7 @@ nav .header-bottom-wrap{
   border-bottom: white 5px solid;
 }
 .navigation-buttons img{
-  width: 50px;
+  width: 30px;
   /*margin-right: 1%;*/
 }
 /****************MY INTRO******************/
