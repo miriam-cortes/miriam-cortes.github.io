@@ -27,6 +27,7 @@ nav h2 {
 nav ul {
   font-size: 1rem;
 }
+
 ul li {
   display: inline;
   text-align: center;
@@ -44,6 +45,11 @@ li a {
 }
 nav .header-bottom-wrap{
   border-bottom: white 5px solid;
+}
+a img{
+  width: 5%;
+  /*float: right;*/
+  border: red 1px solid;
 }
 /****************MY INTRO******************/
 .intro-bar{

@@ -14,12 +14,18 @@ header {
   border-top: black 5px solid;
   border-bottom: black 5px solid;
 }
-/* MY NAME @ TOP*/
+/* ARTICLE NAME @ TOP*/
 nav h2 {
   font-size: 3rem;
   float: left;
-  padding: 2% 2% 2% 3%;
+  padding: 2% 2% 2% 1%;
   margin: 1%;
+}
+.back_home {
+  max-width: 5%;
+  float: left;
+  display: block;
+  margin: 3% 0 2% 2%;
 }
 /*LINKS @ TOP*/
 nav ul {
