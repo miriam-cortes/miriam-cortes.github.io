@@ -35,20 +35,24 @@ ul li {
   display: inline;
   text-align: center;
   float: right;
-  padding: 1%;
+  /*padding: 1%;*/
   margin: 1%;
   margin-top: 3%;
-  width: 10%;
+  /*width: 10%;*/
 }
 li a {
   color: black;
   text-decoration: none;
-  border: white 3px solid;
-  padding: 14px 16px;
+  /*border: white 3px solid;*/
+  /*padding: 14px 16px;*/
   border-radius: 5px;
 }
 nav .header-bottom-wrap{
   border-bottom: white 5px solid;
+}
+.navigation-buttons img{
+  width: 50px;
+  margin-right: 0;
 }
 /**************** ARTICLE SECTION*********************/
 .article-body {
